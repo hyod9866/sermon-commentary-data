@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "releaseTag": "packs-latest",
+  "updatedAt": "2026-11-18T07:48:27.043Z",
+  "packs": {
+    "hokma": {
+      "id": "hokma",
+      "name": "호크마 종합주석",
+      "description": "전 66권 장·절별 강해주석 (가장 많이 쓰는 경량 주석)",
+      "file": "hokma.zip",
+      "zipBytes": 11275879,
+      "rawBytes": 35828627,
+      "fileCount": 66,
+      "hash": "05ac1a4dea02",
+      "updatedAt": "2026-11-18T07:48:27.043Z"
+    },
+    "matthew": {
+      "id": "matthew",
+      "name": "매튜헨리 주석",
+      "description": "전 66권 개역한글 고전 강해주석",
+      "file": "matthew.zip",
+      "zipBytes": 14190846,
+      "rawBytes": 45380018,
+      "fileCount": 66,
+      "hash": "50b2e9809b78",
+      "updatedAt": "2026-11-18T07:48:27.043Z"
+    },
+    "mackintosh": {
+      "id": "mackintosh",
+      "name": "매킨토시 모세오경",
+      "description": "모세오경(창~신) 단행본 강해 (186장)",
+      "file": "mackintosh.zip",
+      "zipBytes": 1375061,
+      "rawBytes": 4586500,
+      "fileCount": 5,
+      "hash": "a6590cf3fba6",
+      "updatedAt": "2026-11-18T07:48:27.043Z"
+    },
+    "grand": {
+      "id": "grand",
+      "name": "그랜드 종합주석",
+      "description": "전 66권 대규모 종합주석 (원문·강해·설교·관주 포함, 매일 자동 업데이트)",
+      "file": "grand.zip",
+      "zipBytes": 159068907,
+      "rawBytes": 541347029,
+      "fileCount": 66,
+      "hash": "ad94c0aa01e5",
+      "updatedAt": "2026-11-18T07:48:27.043Z"
+    },
+    "spurgeon_psalms": {
+      "id": "spurgeon_psalms",
+      "name": "스펄전 시편강해",
+      "description": "시편 1~150편 다윗의 보배 강해",
+      "file": "spurgeon_psalms.zip",
+      "zipBytes": 5475064,
+      "rawBytes": 16759364,
+      "fileCount": 1,
+      "hash": "31c762862d0f",
+      "updatedAt": "2026-11-18T07:48:27.043Z"
+    },
+    "spurgeon": {
+      "id": "spurgeon",
+      "name": "스펄전 설교전집",
+      "description": "스펄전 목사 설교집 모음",
+      "file": "spurgeon.zip",
+      "zipBytes": 21080737,
+      "rawBytes": 71920847,
+      "fileCount": 65,
+      "hash": "a2adf61e66d2",
+      "updatedAt": "2026-11-18T07:48:27.043Z"
+    },
+    "bible-dict": {
+      "id": "bible-dict",
+      "name": "성경대사전 (비전·아가페)",
+      "description": "성경 용어·인명·지명 3,120개 표제어",
+      "file": "bible-dict.zip",
+      "zipBytes": 3489278,
+      "rawBytes": 10138197,
+      "fileCount": 1,
+      "hash": "3e9d9b53d648",
+      "updatedAt": "2026-11-18T07:48:27.043Z"
+    }
+  }
+}
