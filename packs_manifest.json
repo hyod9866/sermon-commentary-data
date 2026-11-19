@@ -1,7 +1,7 @@
 {
   "version": 1,
   "releaseTag": "packs-latest",
-  "updatedAt": "2026-11-18T09:23:51.249Z",
+  "updatedAt": "2026-11-19T06:12:21.372Z",
   "packs": {
     "hokma": {
       "id": "hokma",
@@ -41,22 +41,22 @@
       "name": "그랜드 종합주석",
       "description": "전 66권 대규모 종합주석 (원문·강해·설교·관주 포함, 매일 자동 업데이트)",
       "file": "grand.zip",
-      "zipBytes": 156782030,
-      "rawBytes": 533665975,
+      "zipBytes": 156782021,
+      "rawBytes": 533665963,
       "fileCount": 66,
-      "hash": "5dc755ab77ea",
-      "updatedAt": "2026-11-18T09:23:51.249Z"
+      "hash": "fccc92c51e44",
+      "updatedAt": "2026-11-19T06:12:21.372Z"
     },
     "spurgeon_psalms": {
       "id": "spurgeon_psalms",
       "name": "스펄전 시편강해",
       "description": "시편 1~150편 다윗의 보배 강해",
       "file": "spurgeon_psalms.zip",
-      "zipBytes": 5475064,
-      "rawBytes": 16759364,
+      "zipBytes": 5502532,
+      "rawBytes": 16843255,
       "fileCount": 1,
-      "hash": "31c762862d0f",
-      "updatedAt": "2026-11-18T07:48:27.043Z"
+      "hash": "f2ca3f4687c2",
+      "updatedAt": "2026-11-19T06:12:21.372Z"
     },
     "spurgeon": {
       "id": "spurgeon",
