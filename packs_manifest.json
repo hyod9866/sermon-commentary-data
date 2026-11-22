@@ -1,7 +1,7 @@
 {
   "version": 1,
   "releaseTag": "packs-latest",
-  "updatedAt": "2026-11-21T11:51:15.423Z",
+  "updatedAt": "2026-11-22T07:36:02.081Z",
   "packs": {
     "hokma": {
       "id": "hokma",
@@ -41,11 +41,11 @@
       "name": "그랜드 종합주석",
       "description": "전 66권 대규모 종합주석 (원문·강해·설교·관주 포함, 매일 자동 업데이트)",
       "file": "grand.zip",
-      "zipBytes": 153587365,
-      "rawBytes": 522098813,
+      "zipBytes": 152010141,
+      "rawBytes": 516887280,
       "fileCount": 66,
-      "hash": "4600506496b7",
-      "updatedAt": "2026-11-21T11:51:15.423Z"
+      "hash": "ac34ef4f7f89",
+      "updatedAt": "2026-11-22T07:36:02.081Z"
     },
     "spurgeon_psalms": {
       "id": "spurgeon_psalms",
