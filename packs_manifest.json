@@ -1,18 +1,18 @@
 {
   "version": 1,
   "releaseTag": "packs-latest",
-  "updatedAt": "2026-11-25T07:23:43.883Z",
+  "updatedAt": "2026-11-26T14:37:58.464Z",
   "packs": {
     "hokma": {
       "id": "hokma",
       "name": "호크마 종합주석",
       "description": "전 66권 장·절별 강해주석 (가장 많이 쓰는 경량 주석)",
       "file": "hokma.zip",
-      "zipBytes": 11275859,
-      "rawBytes": 35828388,
+      "zipBytes": 11275758,
+      "rawBytes": 35827308,
       "fileCount": 66,
-      "hash": "119d5fe766c7",
-      "updatedAt": "2026-11-25T05:27:13.391Z"
+      "hash": "820bcf5234ff",
+      "updatedAt": "2026-11-26T14:37:58.464Z"
     },
     "matthew": {
       "id": "matthew",
@@ -41,11 +41,11 @@
       "name": "그랜드 종합주석",
       "description": "전 66권 대규모 종합주석 (원문·강해·설교·관주 포함, 매일 자동 업데이트)",
       "file": "grand.zip",
-      "zipBytes": 142574642,
-      "rawBytes": 488473869,
+      "zipBytes": 141325270,
+      "rawBytes": 484602235,
       "fileCount": 66,
-      "hash": "07c44a4d0739",
-      "updatedAt": "2026-11-25T07:23:43.883Z"
+      "hash": "8ca419eb3ca2",
+      "updatedAt": "2026-11-26T14:37:58.464Z"
     },
     "spurgeon_psalms": {
       "id": "spurgeon_psalms",
